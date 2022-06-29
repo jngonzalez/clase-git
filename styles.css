@@ -87,8 +87,8 @@ body {
 }
 
 .avatar-container img {
-  height: 700px;
-  width: auto;
+  height: 500px;
+  /* width: auto; */
 }
 
 .avatar-container h3 {
@@ -133,7 +133,7 @@ h1 {
   color: var(--primary-color-dark);
   text-transform: uppercase;
   font-weight: 800;
-  font-size: 40px;
+  font-size: 25px;
 }
 
 .project-list {
